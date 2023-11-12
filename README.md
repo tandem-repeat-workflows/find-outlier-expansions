@@ -1,4 +1,5 @@
 # find-outlier-expansions
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tandem-repeat-workflows/find-outlier-expansions/HEAD?labpath=find-outlier-expansions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tandem-repeat-workflows/find-outlier-expansions/blob/master/find-outlier-expansions.ipynb)
+
 
 Find repeat expansions that appear as outliers relative to the normal repeat variation
